@@ -46,7 +46,7 @@ I'm a curious and quick-thinking Data Engineer at **KFINTECH**, working from Bhu
 ### 📫 Let’s Connect
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/your-linkedin-url/](https://www.linkedin.com/in/ajit-kumar-jena-1708541b0/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/ajit-kumar-jena-1708541b0/](https://www.linkedin.com/in/ajit-kumar-jena-1708541b0/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
